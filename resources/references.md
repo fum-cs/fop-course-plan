@@ -8,6 +8,10 @@
 - [مخزن fundamentals-of-programming](https://github.com/fum-cs/fundamentals-of-programming)
 - [کتاب آنلاین](https://fum-cs.github.io/fundamentals-of-programming/)
 
+## نمونه‌های تدریس
+- [Gists کلاس‌های قبلی استاد](https://gist.github.com/mamintoosi)
+- [نمونه‌های منتخب و الگوی استفاده از Gist در این درس](./previous-class-gists.md)
+
 ## راهنماهای C و ابزار
 - [cppreference — C language](https://en.cppreference.com/w/c)
 - [GCC documentation](https://gcc.gnu.org/onlinedocs/)
