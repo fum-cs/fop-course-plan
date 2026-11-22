@@ -19,10 +19,12 @@
 
 ## نقشه ۲۰ جلسه
 
+برای مشاهده زمان‌بندی مقدماتی و زمان پیشنهادی هر جلسه، [پیش‌نویس ۲۰ جلسه](20-session-outline.md) را ببینید.
+
 | جلسه | محور | هسته ضروری / خروجی قابل مشاهده | درس‌نامه پیشنهادی |
 |---:|---|---|---|
-| 1 | شروع با int و محاسبه | اعلان، انتساب، چهار عمل اصلی و چاپ؛ مسائل کوچک با مقدار ثابت. پس از چند مثال، در صورت امکان ورودی و آشنایی با float | [بخش ۱: فصل ۳، C و محیط برنامه‌نویسی](https://fum-cs.github.io/fundamentals-of-programming/parts/p01-basics/part-one.html)؛ [بخش ۲: متغیرها و عملگرها](https://fum-cs.github.io/fundamentals-of-programming/parts/p02-data-operators/part-two.html) |
-| 2 | ورودی، float و رفتار محاسبات | ورودی، انواع صحیح و اعشاری، تقسیم صحیح/حقیقی، دقت نمایش و بررسی خروجی‌های غیرمنتظره | [بخش ۲: متغیرها، ورودی/خروجی و عملگرها](https://fum-cs.github.io/fundamentals-of-programming/parts/p02-data-operators/part-two.html) |
+| 1 | انگیزه و شروع سبک با C | ۶۰ دقیقه معرفی علوم کامپیوتر و نمونه‌های پژوهشی مدرس؛ سپس اولین برنامه و معرفی اولیه int/چاپ. جلسه اول برای غیبت احتمالی انعطاف‌پذیر است. | [جلسه ۱](../sessions/theory/01.md)؛ [بخش ۱](https://fum-cs.github.io/fundamentals-of-programming/parts/p01-basics/part-one.html) |
+| 2 | مرور، محاسبه و ورودی | ۱۵ دقیقه مرور/جبران جلسه اول؛ اعلان، انتساب، چهار عمل اصلی و چاپ؛ مجموع پنج عدد و جابه‌جایی؛ سپس scanf و در صورت امکان float. | [جلسه ۲](../sessions/theory/02.md)؛ [بخش ۲](https://fum-cs.github.io/fundamentals-of-programming/parts/p02-data-operators/part-two.html) |
 | 3 | تصمیم‌گیری | `if/else`، عملگرهای مقایسه و منطقی، مرز بازه‌ها و حالت‌های مساوی | بخش ۳ |
 | 4 | تکرار پایه | `while` و `for`، شمارنده، شرط توقف، trace مستقیم کد | بخش ۳ |
 | 5 | الگوهای حلقه | جمع/تعداد/min/max، sentinel، حلقه تو در تو و مسئله‌های عددی | بخش ۳ |
